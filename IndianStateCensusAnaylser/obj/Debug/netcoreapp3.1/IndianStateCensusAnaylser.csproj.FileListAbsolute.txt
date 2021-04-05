@@ -1,0 +1,16 @@
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.exe
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.deps.json
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.runtimeconfig.json
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.runtimeconfig.dev.json
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.dll
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\IndianStateCensusAnaylser.pdb
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.csprojAssemblyReference.cache
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.AssemblyInfoInputs.cache
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.AssemblyInfo.cs
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.csproj.CoreCompileInputs.cache
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.dll
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.pdb
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.genruntimeconfig.cache
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\IndianStateCensusAnaylser\IndianStateCensusAnaylser\obj\Debug\netcoreapp3.1\IndianStateCensusAnaylser.csproj.CopyComplete
