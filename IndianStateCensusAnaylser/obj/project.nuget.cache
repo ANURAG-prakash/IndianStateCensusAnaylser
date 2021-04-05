@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pExr0/qPWdRW5Zt96vLlBfE0Lg1jSeKZYNXLj8b9bj4rwavEfv3PXnY10C00S5QAkdGfuih2ou0nJ0wdDddYVg==",
+  "success": true,
+  "projectFilePath": "D:\\IndianStateCensusAnaylser\\IndianStateCensusAnaylser\\IndianStateCensusAnaylser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
